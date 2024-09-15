@@ -1,0 +1,1 @@
+This portfolio website, crafted with HTML, CSS, and JavaScript, is a reflection of my expertise in web development. It features a sophisticated black background that highlights the content, combined with a blue-colored navbar for intuitive navigation. Each section is meticulously designed to offer a clean and engaging user experience.
