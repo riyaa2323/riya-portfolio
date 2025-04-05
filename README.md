@@ -1,11 +1,11 @@
-✨ Personal Portfolio Website
+#✨ Personal Portfolio Website
 This is a sleek and responsive personal portfolio website built using HTML and CSS. It’s perfect for showcasing your skills, projects, and personal brand in a modern, clean, and professional format.
 
-🌐 Live Preview
+#🌐 Live Preview
 👉 Visit the Website
 🔗 https://riyaa2323.github.io/riya-portfolio/
 
-🔥 Key Features
+#🔥 Key Features
 🎨 Modern Design – Clean and professional UI
 
 📱 Fully Responsive – Optimized for all screen sizes
@@ -20,14 +20,14 @@ This is a sleek and responsive personal portfolio website built using HTML and C
 
 🌍 Custom Domain Support – Use your own domain name
 
-🧰 Technologies Used
+#🧰 Technologies Used
 🔤 HTML5 – Semantic structure
 
 🎨 CSS3 – Custom styling and layout
 
 🚀 GitHub Pages – Free and fast hosting
 
-📁 Folder Structure
+#📁 Folder Structure
 bash
 Copy
 Edit
